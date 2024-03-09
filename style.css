@@ -696,7 +696,7 @@ html {
   height: 15rem;
   background-color: #202122;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 0 10rem;
 }
@@ -707,6 +707,7 @@ html {
   font-weight: 900;
   color: #ccc;
   margin-right: 3rem;
+  padding:0 3rem 0 3rem;
   letter-spacing: 0.1rem;
   transition: color 0.3s;
 }
